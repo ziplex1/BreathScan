@@ -1,5 +1,4 @@
 # BreathScan
-Sure, here's a sample markdown file for GitHub, named `README.md`:
 
 ```markdown
 # Smoke Detector with ESP32, MQ-135, LCD, and Buzzer
